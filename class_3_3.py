@@ -5,7 +5,7 @@ def save_names(name_file):
     my_file.write(current_name + "\n")
     my_file.close()
 
-def moshe(david):
+def yos(david):
     print(david)
 
 def show_name(name_file):
