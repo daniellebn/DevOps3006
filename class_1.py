@@ -21,7 +21,8 @@ print("a=9, b=8, c=15")
 # C
 # no difference between "john" and 'john'
 # the issue is that my_number is type int while "result is" is a string
-my_number = 5+5
+my_number = 5+9
+print(my_number)
 result = "result is: {}"
 print(result.format(my_number))
 
