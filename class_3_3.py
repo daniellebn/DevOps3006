@@ -14,5 +14,4 @@ def show_name(name_file):
 
 
 for i in range(5):
-    save_names("names.txt")
 show_name("names.txt")
